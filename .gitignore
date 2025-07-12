@@ -30,3 +30,5 @@ out/
 *.iws
 *.ipr
 *.bak
+
+launch.json
